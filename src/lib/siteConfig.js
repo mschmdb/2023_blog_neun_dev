@@ -4,9 +4,9 @@ export const GH_USER_REPO = 'mschmdb/2023_blog_neun_dev'; // used for pulling gi
 export const SITE_TITLE = 'neun.dev';
 export const SITE_DESCRIPTION = "neun dev";
 export const DEFAULT_OG_IMAGE =
-	'https://user-images.githubusercontent.com/6764957/147861359-3ad9438f-41d1-47c8-aa05-95c7d18497f0.png';
-export const MY_TWITTER_HANDLE = 'swyx';
-export const MY_YOUTUBE = 'https://youtube.com/swyxTV';
+	'https://avatars.githubusercontent.com/u/113426956?v=4';
+export const MY_TWITTER_HANDLE = 'Null2JS';
+export const MY_YOUTUBE = '';
 export const POST_CATEGORIES = ['Blog']; // Other categories you can consider adding: Talks, Tutorials, Snippets, Podcasts, Notes...
 export const GH_PUBLISHED_TAGS = ['Published'];
 
