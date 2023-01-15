@@ -1,5 +1,5 @@
 export const SITE_URL = 'https://neun.dev';
-export const APPROVED_POSTERS_GH_USERNAME = ['mschmdb'];
+export const APPROVED_POSTERS_GH_USERNAME = 'mschmdb';
 export const GH_USER_REPO = 'mschmdb/2023_blog_neun_dev'; // used for pulling github issues and offering comments
 export const SITE_TITLE = 'neun.dev';
 export const SITE_DESCRIPTION = "neun dev";
