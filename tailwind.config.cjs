@@ -5,7 +5,7 @@ module.exports = {
 		// may also want to include HTML files
 		'./src/**/*.html'
 	],
-	darkMode: 'dark',
+	darkMode: 'class',
 	theme: {
 		extend: {
 			typography: (theme) => ({
